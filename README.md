@@ -23,7 +23,7 @@ Ensure you have a Google Cloud Platform account. Follow the steps in `setup.ipyn
 
 ## How to Use
 
-1. Open `pipeline.ipynb` in Vertex AI Notebooks.
+1. Open `setup.ipynb``pipeline.ipynb``endtoendpipeline.ipynb``metrics.ipynb` in Vertex AI Notebooks.
 2. Follow the notebook steps to compile and run the ML pipeline.
 3. Monitor the pipeline execution in Vertex AI's console.
 
